@@ -38,6 +38,8 @@ The program should be executed in google colab.
  
 ## Program:
 
+Developed by:Marella Hasini
+Registration number:212223240083
 ``` Python
 # Import the necessary packages
 import cv2
